@@ -20,13 +20,7 @@ Passionate about building real-world projects and continuously improving my skil
 
 ---
 
-## 🏆 Internships & Certifications
 
-- ✅ **Java Programming Internship** – 2 months at *Rudoo*
-- ✅ **Internet of Things Internship** – 21 days at *Vei Technologies*
-- ✅ **Artificial Intelligence Training** – by *MSME Technology Centre*
-
----
 
 ## 🧪 Projects
 
