@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**suvedha-27/suvedha-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Suvedha
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧑‍🎓 About Me
+
+I'm a curious and motivated student pursuing my degree in Information Technology.  
+I enjoy working with Java, exploring IoT innovations, and learning about Artificial Intelligence.  
+Passionate about building real-world projects and continuously improving my skills.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages**: Java, C, Python (Basic)
+- **Web**: HTML, CSS, JavaScript (Beginner)
+- **Tools & IDEs**: Git, GitHub, VS Code, Arduino IDE
+- **Others**: Good communication, problem-solving, quick learner
+
+---
+
+## 🏆 Internships & Certifications
+
+- ✅ **Java Programming Internship** – 2 months at *Rudoo*
+- ✅ **Internet of Things Internship** – 21 days at *Vei Technologies*
+- ✅ **Artificial Intelligence Training** – by *MSME Technology Centre*
+
+---
+
+## 🧪 Projects
+
+- File compression tool using java
+---
+
+
+
+
+> *"Learning never exhausts the mind." – Leonardo da Vinci*
+
+
